@@ -24,7 +24,7 @@ wSgYhgAAU/aDww;
 
 ```
 
-![https://raw.githubusercontent.com/Glutexo/hrm-comments/master/resources/comment-example.png](Comment example)
+![Comment example](https://raw.githubusercontent.com/Glutexo/hrm-comments/master/resources/comment-example.png)
 
 ## Usage ##
 
